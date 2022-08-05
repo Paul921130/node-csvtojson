@@ -1,0 +1,5 @@
+# 忽略 package-lock.json 檔案
+package-lock.json
+
+# 忽略所有 node_modules 目錄下
+/node_modules/*
